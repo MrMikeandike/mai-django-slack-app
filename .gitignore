@@ -2,5 +2,5 @@
 run.bat
 run.sh
 venv
-.idea/
+.idea
 mysite/slack_app/.env
