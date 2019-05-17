@@ -1,0 +1,6 @@
+#.env
+run.bat
+run.sh
+venv
+.idea/
+mysite/slack_app/.env
